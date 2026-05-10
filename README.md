@@ -1,4 +1,4 @@
-# e-commerce-SQL-sales-analysis
+# e-commerce-sales-analysis-sql
 E-Commerce Sales Analysis using SQL
 
 This project analyzes e-commerce sales data to extract insights about
